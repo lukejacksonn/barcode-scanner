@@ -1,6 +1,9 @@
 {
   "name": "barcodeScanner",
   "version": "2.0.0",
+  "directories": {
+    "app": "dist"
+  },
   "engines": {
     "node": "4.1.1"
   },
